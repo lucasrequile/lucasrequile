@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lucasrequile, currently a KU Leuven - UHasselt student
 - 👀 I mostly use GitHub for hackintosh, basic coding & scripting
-- 🌱 I’m currently learning Python & Java.
+- 🌱 I’m currently learning C & Java.
 - 📫 You can currently reach me on my student email at lucas.requile{AT}student.uhasselt.be
 
 <!---
